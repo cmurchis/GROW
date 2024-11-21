@@ -232,7 +232,5 @@ navMenu.classList.toggle("active");
     #host{
         padding-top: 25%;
     }
-    #map {
-        height: 100%;
-      }
+ 
       
